@@ -12,7 +12,7 @@ Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Developm
 
 ## 📬 Get in touch
 
-- portfolio website:
+- portfolio website: https://gavksingh.github.io/My_Portfolio/
 - mail: ksingh.gav@gmail.com
 - linkedin: https://www.linkedin.com/in/gavksingh/
 - leetcode: 
