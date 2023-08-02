@@ -4,7 +4,7 @@
 ![hero image](https://github.com/gavksingh/gavksingh/assets/103016722/7a23403e-20f2-4b3d-aa96-8ec463f02fdc)
 
 
-[![LinkedIn Shreyansh Singh](https://img.shields.io/badge/shresingh05-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shreyansh-singh0108/).
+[![LinkedIn Gaurav Singh](https://img.shields.io/badge/gavksingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/gavksingh).
 
 Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Development, and Data Science , Software Development.
 
@@ -13,7 +13,7 @@ Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Developm
 ## 📬 Get in touch
 
 - portfolio website:
-- mail: shreyansh.ku.singh@gmail.com
+- mail: ksingh.gav@gmail.com
 - linkedin: https://www.linkedin.com/in/shreyansh-singh0108/
 - leetcode: https://leetcode.com/shreyansh__1/
 
