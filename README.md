@@ -1,16 +1,84 @@
 ### Hi there 👋
 
-<!--
-**gavksingh/gavksingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![hero image](https://github.com/gavksingh/gavksingh/assets/103016722/7a23403e-20f2-4b3d-aa96-8ec463f02fdc)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![LinkedIn Shreyansh Singh](https://img.shields.io/badge/shresingh05-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shreyansh-singh0108/).
+
+Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Development, and Data Science , Software Development.
+
+- 😄 Pronouns: he/him
+
+## 📬 Get in touch
+
+- portfolio website:
+- mail: shreyansh.ku.singh@gmail.com
+- linkedin: https://www.linkedin.com/in/shreyansh-singh0108/
+- leetcode: https://leetcode.com/shreyansh__1/
+
+## ⚙️ Technical Skillset
+
+<!-- new code -->
+<table width="100%">
+        <tr>
+            <td>Full Stack Developer</td>
+            <td>Technical Skills</td>
+        </tr>
+        <!-- data row -->
+        <tr>
+            <!-- first data -->
+            <td>
+                <table>
+                <tr>
+                    <th> ⚡ Proficient in</th>
+                    <th> 👌 Previously used</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>C</li>
+                            <li>Javascript</li>
+                            <li>React</li>
+                            <li>Node</li>
+                            <li>MySQL</li>
+                            <li>HTML/CSS</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>C++</li>
+                            <li>PHP</li>
+                            <li>Android</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+            <!-- second data -->
+            <td>
+                <table>
+                <tr>
+                    <th> 📈 Skills</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li style="padding:5px"><b>Web technologies & Frameworks:</b> React, React Native, Angular.js </li>
+                            <li style="padding:5px"><b>Database Technology:</b> MySQL,  MongoDB</li>
+                            <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
+                            <li style="padding:5px"><b>DevOps:</b> AWS, AWS Amplify, AWS Lambda, API Gateway, DynamoDB</li>
+                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, Postman, GIT , Atlassian</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+## 🤝 Open to work
+
+Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
