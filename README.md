@@ -14,7 +14,7 @@ Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Developm
 
 - portfolio website:
 - mail: ksingh.gav@gmail.com
-- linkedin: https://www.linkedin.com/in/shreyansh-singh0108/
+- linkedin: https://www.linkedin.com/in/gavksingh/
 - leetcode: https://leetcode.com/shreyansh__1/
 
 ## ⚙️ Technical Skillset
