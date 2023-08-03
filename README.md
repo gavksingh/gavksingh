@@ -70,7 +70,7 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
                     <td>
                         <ul>
                             <li style="padding:5px"><b>Web Technologies:</b> AWS, AWS Amplify, AWS Lambda, API Gateway, DynamoDB</li>    
-                            <li style="padding:5px"><b>Distributed Systems & DevOps:</b> Docker, AWS, GCP, Kubernetes, CloudWatch </li>
+                            <li style="padding:5px"><b> DevOps:</b> Docker, AWS, GCP, Kubernetes, CloudWatch </li>
                             <li style="padding:5px"><b>Database Technology:</b> MySQL, MongoDB, PostgreSQL</li>
                             <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
                             <li style="padding:5px"><b>Platform & tools:</b> GitHub, GIT, Postman</li>
