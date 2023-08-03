@@ -6,7 +6,8 @@
 
 [![LinkedIn Gaurav Singh](https://img.shields.io/badge/gavksingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/gavksingh).
 
-Welcome to my Github! I'm Gaurav, My interests lie in the field of  Web Development, and Data Science , Software Development.
+Welcome to my Github! I’m Gaurav Kumar Singh, a full time Software Development Engineer. With several years of experience in software development, I am passionate about creating innovative solutions that help meet customer needs.
+I am most skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively seek opportunities to contribute to Open Source projects, collaborating with like-minded individuals.
 
 - 😄 Pronouns: he/him
 
