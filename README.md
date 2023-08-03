@@ -8,7 +8,7 @@
 
 Welcome to my Github! I’m Gaurav Kumar Singh, a full time Software Development Engineer. With several years of experience in software development, I am passionate about creating innovative solutions that help meet customer needs.
 
-I am most skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively seek opportunities to contribute to Open Source projects, collaborating with like-minded individuals.
+I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively seek opportunities to contribute to Open Source projects, collaborating with like-minded individuals.
 
 - 😄 Pronouns: he/him
 
@@ -16,8 +16,10 @@ I am most skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I activ
 
 - portfolio website: https://gavksingh.github.io/My_Portfolio/
 - mail: ksingh.gav@gmail.com
+- youtueb: https://www.youtube.com/@workcodeandgaurav/
 - linkedin: https://www.linkedin.com/in/gavksingh/
-- leetcode: 
+- twitter: https://twitter.com/gaurav_ksingh4
+- leetcode: https://leetcode.com/KsinghGaurav/
 
 ## ⚙️ Technical Skillset
 
@@ -41,19 +43,18 @@ I am most skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I activ
                         <ul>
                             <li>Python</li>
                             <li>Java</li>
-                            <li>C</li>
                             <li>Javascript</li>
                             <li>React</li>
                             <li>Node</li>
                             <li>MySQL</li>
-                            <li>HTML/CSS</li>
+                            <li>HTML/CSS</li>   
+                            <li>C</li>
                         </ul>
                     </td>
                     <td>
                         <ul>
                             <li>C++</li>
                             <li>PHP</li>
-                            <li>Android</li>
                         </ul>
                     </td>
                 </tr>
@@ -68,11 +69,12 @@ I am most skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I activ
                 <tr>
                     <td>
                         <ul>
-                            <li style="padding:5px"><b>Web technologies & Frameworks:</b> React, React Native, Angular.js </li>
-                            <li style="padding:5px"><b>Database Technology:</b> MySQL,  MongoDB</li>
+
+                            <li style="padding:5px"><b>Web Technologies:</b> AWS, AWS Amplify, AWS Lambda, API Gateway, DynamoDB</li>    
+                            <li style="padding:5px"><b>Distributed Systems \& DevOps:</b> Docker, AWS, GCP, Kubernetes, CloudWatch </li>
+                            <li style="padding:5px"><b>Database Technology:</b> MySQL, MongoDB, PostgreSQL</li>
                             <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
-                            <li style="padding:5px"><b>DevOps:</b> AWS, AWS Amplify, AWS Lambda, API Gateway, DynamoDB</li>
-                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, Postman, GIT , Atlassian</li>
+                            <li style="padding:5px"><b>Platform & tools:</b>GitHub, GIT, Postman</li>
                         </ul>
                     </td>
                 </tr>
