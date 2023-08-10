@@ -84,4 +84,4 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 
 ## 🤝 Open to work
 
-Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
+Currently seeking full-time positions as a Software Engineer, DevOps Engineer, and Web Development roles.
