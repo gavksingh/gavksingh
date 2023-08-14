@@ -13,6 +13,8 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 - 😄 Pronouns: he/him
 
 
+
+
 ## 💡 I Believe...
 
 "Code is poetry in pixels and pixels make magic. Let's create some!"
