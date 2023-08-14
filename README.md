@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 ![hero image](https://github.com/gavksingh/gavksingh/assets/103016722/7a23403e-20f2-4b3d-aa96-8ec463f02fdc)
@@ -11,6 +11,7 @@ Welcome to my Github! I’m Gaurav Singh, a full time Software Development Engin
 I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively seek opportunities to contribute to Open Source projects, collaborating with like-minded individuals.
 
 - 😄 Pronouns: he/him
+
 
 ## 💡 I Believe...
 
