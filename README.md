@@ -52,7 +52,7 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
         </td>
     </tr>
     <tr>
-        <td colspan="2">
+        <td colspan="5">
             <h3>📈 Skills</h3>
             <ul>
                 <li>Web Technologies: jQuery, JSON, AJAX, XML, Bootstrap</li>
