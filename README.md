@@ -26,7 +26,7 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 ## ⚙️ Technical Skillset
 
 <!-- new code -->
-<table width="100%">
+<table width="50%">
     <tr>
         <td>Full Stack Developer</td>
         <td>Technical Skills</td>
