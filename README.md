@@ -19,7 +19,7 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 
 ## 🛠️ Tech Toolbox
 
-![Python](https://img.shields.io/badge/Python-3776AB) ![Java](https://img.shields.io/badge/Java-007396) ![Go](https://img.shields.io/badge/Go-00ADD8) ![DevOps](https://img.shields.io/badge/DevOps-333333) ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5) ![React](https://img.shields.io/badge/React-61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![DevOps](https://img.shields.io/badge/DevOps-333333?style=for-the-badge&logo=devops&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 
 ## 📬 Get in touch
