@@ -14,8 +14,8 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 
 ## 📬 Get in touch
 
-- portfolio website: https://gavksingh.github.io/My_Portfolio/
-- mail: ksingh.gav@gmail.com
+- portfolio website: [Portfolio](https://gavksingh.github.io/My_Portfolio/)
+- mail: [Mail](ksingh.gav@gmail.com)
 - youtube: https://www.youtube.com/@workcodeandgaurav/
 - linkedin: https://www.linkedin.com/in/gavksingh/
 - twitter: https://twitter.com/gaurav_ksingh4
