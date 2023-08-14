@@ -17,8 +17,8 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 - 🌐 [Portfolio](https://gavksingh.github.io/My_Portfolio/)
 - 📧 [Email](ksingh.gav@gmail.com)
 - 🎥 [YouTube][WorkCode & Gaurav](https://www.youtube.com/@workcodeandgaurav/)
-- 💼 [![LinkedIn]](https://www.linkedin.com/in/gavksingh/)
-- 🐦 [![Twitter](https://twitter.com/gaurav_ksingh4)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gavksingh/)
+- 🐦 [Twitter](https://twitter.com/gaurav_ksingh4)
 - 🧠 [LeetCode](https://leetcode.com/KsinghGaurav/)
 
 
