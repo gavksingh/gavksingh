@@ -25,13 +25,15 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 
 ## ⚙️ Technical Skillset
 
-<!-- new code -->
-## ⚙️ Technical Skillset
-
-<table>
+<table width="100%">
     <tr>
-        <td width="50%">
-            <h3>⚡ Proficient in</h3>
+        <td>Full Stack Developer</td>
+        <td>Technical Skills</td>
+    </tr>
+    <!-- Proficient in -->
+    <tr>
+        <td>
+            <h4>⚡ Proficient in</h4>
             <ul>
                 <li>Python</li>
                 <li>Java</li>
@@ -43,35 +45,30 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
                 <li>C</li>
             </ul>
         </td>
-        <td width="50%">
-            <h3>👌 Previously Used</h3>
+        <!-- Previously Used -->
+        <td>
+            <h4>👌 Previously Used</h4>
             <ul>
                 <li>C++</li>
                 <li>PHP</li>
             </ul>
         </td>
     </tr>
+    <!-- Skills -->
     <tr>
-        <td>
-            <table>
-                <tr>
-                    <th> 📈 Skills</th>
-                </tr>
-                <tr>
-                    <td>
-                        <ul>
-                            <li style="padding:5px"><b>Web Technologies:</b> jQuery, JSON, AJAX, XML, Bootstrap</li>
-                            <li style="padding:5px"><b> DevOps:</b> Docker, AWS, GCP, Kubernetes, CloudWatch </li>
-                            <li style="padding:5px"><b>Database Technology:</b> MySQL, MongoDB, PostgreSQL, DynamoDB</li>
-                            <li style="padding:5px"><b>Operating Systems :</b> Windows, Linux, Unix</li>
-                            <li style="padding:5px"><b>Platform & tools:</b> GitHub, GIT, Postman</li>
-                        </ul>
-                    </td>
-                </tr>
-            </table>
+        <td colspan="2">
+            <h4>📈 Skills</h4>
+            <ul>
+                <li>Web Technologies: jQuery, JSON, AJAX, XML, Bootstrap</li>
+                <li>DevOps: Docker, AWS, GCP, Kubernetes, CloudWatch</li>
+                <li>Database Technology: MySQL, MongoDB, PostgreSQL, DynamoDB</li>
+                <li>Operating Systems: Windows, Linux, Unix</li>
+                <li>Platform & Tools: GitHub, GIT, Postman</li>
+            </ul>
         </td>
     </tr>
 </table>
+
 
 ## 🌟 Let's Collaborate
 
