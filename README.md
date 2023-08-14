@@ -17,7 +17,7 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 -  [![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=globe&logoColor=white)](https://gavksingh.github.io/My_Portfolio/)
 -  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@workcodeandgaurav/)
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavksingh/)
--  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurav_ksingh4)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurav_ksingh4)
 -  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/KsinghGaurav/)
 -  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksingh.gav@gmail.com)
 
