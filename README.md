@@ -12,14 +12,14 @@ I am skilled in: Java, Python, Cloud Computing Platforms, & DevOps. I actively s
 
 - 😄 Pronouns: he/him
 
-## 📬 Get in touch
+## 📬 Get in Touch
 
-- portfolio website: [Portfolio](https://gavksingh.github.io/My_Portfolio/)
-- mail: [Mail](ksingh.gav@gmail.com)
-- youtube: https://www.youtube.com/@workcodeandgaurav/
-- linkedin: https://www.linkedin.com/in/gavksingh/
-- twitter: https://twitter.com/gaurav_ksingh4
-- leetcode: https://leetcode.com/KsinghGaurav/
+- 🌐 [Portfolio](https://gavksingh.github.io/My_Portfolio/)
+- 📧 Email: ksingh.gav@gmail.com
+- 🎥 [YouTube](https://www.youtube.com/@workcodeandgaurav/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gavksingh/)
+- 🐦 [Twitter](https://twitter.com/gaurav_ksingh4)
+- 🧠 [LeetCode](https://leetcode.com/KsinghGaurav/)
 
 
 
