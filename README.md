@@ -41,14 +41,11 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 
 ---
 
-## 📌 Pinned Repositories
+## GitHub Activity
 
 <div align="center">
 
-[![Agentic MCP Hub](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=agentic-mcp-hub&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/agentic-mcp-hub)
-[![AutoFlow MCP](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=autoflow-mcp&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/autoflow-mcp)
-[![AutoRSR](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=autorsr&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/autorsr)
-[![X-Voice](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=x-voice&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/x-voice)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavksingh&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
