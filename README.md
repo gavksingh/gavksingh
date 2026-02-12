@@ -41,11 +41,18 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 
 ---
 
-## GitHub Activity
+## GitHub Activity & Contributions
 
 <div align="center">
 
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gavksingh&theme=tokyonight&hide_border=true)
+
+### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavksingh&theme=tokyo-night&hide_border=true&area=true)
+
+### GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gavksingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 </div>
 
