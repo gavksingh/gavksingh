@@ -6,28 +6,27 @@
 
 [![LinkedIn Gaurav Singh](https://img.shields.io/badge/gavksingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/gavksingh).
 
-Software Engineer with 3+ years of experience at the intersection of 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 and 𝗟𝗮𝗿𝗴𝗲-𝗦𝗰𝗮𝗹𝗲 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀. My specialty is building and scaling 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻-𝗿𝗲𝗮𝗱𝘆 𝗔𝗜 products, from 𝗯𝗮𝗰𝗸𝗲𝗻𝗱 𝗶𝗻𝗳𝗿𝗮𝘀𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗠𝗟 𝗺𝗼𝗱𝗲𝗹.
+Software Engineer with 3+ years of experience building production AI agent systems and scalable distributed services. I ship end-to-end, from designing multi-agent orchestration and semantic retrieval platforms to architecting microservices handling 500K+ daily transactions.
 
-🤖 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱 𝗔𝗜 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 & 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵
-As an AI Research Assistant at SUNY, I build and orchestrate complex AI systems to solve real-world problems:
-  • Building multimodal speech models (AutoRSR, Pi-whisper) using PyTorch
-  • Developing AI interview pipelines
-  • Designing AI orchestrators for assistive technology (e.g., helping children with speech disorders)
+Currently: AI Software Engineer at University at Buffalo, building production-grade AI agents using MCP servers and LangGraph that automate enterprise workflows, and semantic search platforms delivering sub-100ms latency across 1,000+ records.
 
-🧠 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲 𝗔𝗜 & 𝗟𝗟𝗠𝘀
-I have hands-on experience designing, building, and deploying:
-  • LLM Agents & RAG pipelines (using LangChain)
-  • AI-driven agentic web crawlers
-  • HIPAA-compliant chatbots
+What I build:
 
-🚀 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
-My AI skills are built on a 2.5-year foundation of high-throughput backend engineering:
-  • Engineered Java/Spring Boot microservices
-  • Optimized Kafka pipelines to handle 100,000+ events/sec
-  • Reduced API latency by 30% and SQL queries by 40%
+→ AI Agents & Agentic Systems
+Shipping MCP servers, multi-agent orchestration with LangGraph/LangChain, semantic retrieval (RAG), vector-based memory architectures, and LLM evaluation frameworks. Built Agentic MCP Hub (enterprise MCP server for Jira, Slack, SQL integrations) and AutoFlow MCP (plug-and-play browser automation for AI agents).
 
-𝗖𝗼𝗿𝗲 𝗧𝗲𝗰𝗵: 𝗚𝗲𝗻𝗔𝗜 (𝗣𝘆𝘁𝗵𝗼𝗻, 𝗟𝗟𝗠𝘀, 𝗥𝗔𝗚, 𝗔𝗴𝗲𝗻𝘁𝘀) | 𝗗𝗶𝘀𝘁𝗿𝗶𝗯𝘂𝘁𝗲𝗱 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 (𝗝𝗮𝘃𝗮, 𝗞𝗮𝗳𝗸𝗮) | 𝗔𝗜 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 (𝗣𝘆𝗧𝗼𝗿𝗰𝗵, 𝗠𝘂𝗹𝘁𝗶𝗺𝗼𝗱𝗮𝗹) | 𝗖𝗹𝗼𝘂𝗱 (𝗔𝗪𝗦, 𝗔𝘇𝘂𝗿𝗲, 𝗗𝗼𝗰𝗸𝗲𝗿)
+→ Full-Stack AI Platforms
+Architected AutoRSR, a clinical AI platform with React/TypeScript and API integrations that accelerated feature delivery by 3x. Built X-Voice, a conversational voice AI platform with sub-200ms responsiveness. Engineered HIPAA-compliant RAG systems with semantic caching that cut LLM costs by 30%.
 
+→ Distributed Systems & Reliability
+Served as DRI for microservices serving 50K+ daily users at 99.99% uptime. Designed event-driven Kafka pipelines processing 500K+ daily transactions with exactly-once semantics. Built cloud serverless ML pipelines with CI/CD, Kubernetes, and OpenTelemetry monitoring.
+
+Core Stack: Python, TypeScript, Java, C# | MCP, LangGraph, LangChain, RAG, PyTorch | React, Next.js, Spring Boot, .NET, REST/GraphQL | AWS, Azure, Docker, Kubernetes, Kafka, PostgreSQL, Redis
+
+MS in Computer Science from University at Buffalo (3.9 GPA). AWS, Azure AI, and GCP Certified.
+
+Open to Software Engineer, AI/ML Engineer, and Applied AI Engineer roles.
+Let's connect: ksingh.gauravk@gmail.com
 
 ## 💡 I Believe...
 
