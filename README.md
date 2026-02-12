@@ -144,18 +144,7 @@ Conversational voice AI platform with sub-200ms responsiveness. Real-time speech
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavksingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavksingh&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavksingh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
-</div>
-
----
+> **📌 Note:** Your pinned repositories and contribution activity will appear below this section on your GitHub profile.
 
 ## 🏆 Certifications & Achievements
 
@@ -169,43 +158,6 @@ Conversational voice AI platform with sub-200ms responsiveness. Real-time speech
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-```typescript
-const gaurav = {
-  lookingFor: ["Software Engineer", "AI/ML Engineer", "Applied AI Engineer"],
-  currentlyBuilding: [
-    "Production-grade AI agents with MCP servers",
-    "Semantic search platforms with sub-100ms latency",
-    "Multi-agent orchestration systems"
-  ],
-  currentlyLearning: [
-    "Advanced LLM fine-tuning techniques",
-    "Distributed systems at scale",
-    "Cloud-native architectures"
-  ],
-  openToCollaborate: true
-};
-```
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A73E8?style=for-the-badge&logo=google&logoColor=white)](https://gavksingh.github.io/My_Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gavksingh/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@workcodeandgaurav/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gaurav_ksingh4)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/KsinghGaurav/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksingh.gauravk@gmail.com)
-
-</div>
-
----
 
 ## 💡 I Believe...
 
