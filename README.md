@@ -41,7 +41,16 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 
 ---
 
-> **📌 Note:** Your pinned repositories and contribution activity will appear below this section on your GitHub profile.
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![Agentic MCP Hub](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=agentic-mcp-hub&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/agentic-mcp-hub)
+[![AutoFlow MCP](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=autoflow-mcp&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/autoflow-mcp)
+[![AutoRSR](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=autorsr&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/autorsr)
+[![X-Voice](https://github-readme-stats.vercel.app/api/pin/?username=gavksingh&repo=x-voice&theme=tokyonight&show_owner=true)](https://github.com/gavksingh/x-voice)
+
+</div>
 
 ---
 
@@ -113,8 +122,10 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 <tr>
 <td width="50%">
 
-### 🤖 Agentic MCP Hub
+### [🤖 Agentic MCP Hub](https://github.com/gavksingh/agentic-mcp-hub)
 Enterprise MCP server enabling AI agents to interact with Jira, Slack, and SQL databases. Built with Python and MCP protocol for seamless enterprise workflow automation.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/gavksingh/agentic-mcp-hub)
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -124,8 +135,10 @@ Enterprise MCP server enabling AI agents to interact with Jira, Slack, and SQL d
 </td>
 <td width="50%">
 
-### 🌐 AutoFlow MCP
+### [🌐 AutoFlow MCP](https://github.com/gavksingh/autoflow-mcp)
 Plug-and-play browser automation framework for AI agents. Enables autonomous web interactions with intelligent error handling and retry mechanisms.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/gavksingh/autoflow-mcp)
 
 **Tech Stack:**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -137,8 +150,10 @@ Plug-and-play browser automation framework for AI agents. Enables autonomous web
 <tr>
 <td width="50%">
 
-### 🏥 AutoRSR
+### [🏥 AutoRSR](https://github.com/gavksingh/autorsr)
 Clinical AI platform with React/TypeScript frontend and API integrations. Accelerated feature delivery by 3x with modern architecture and optimized workflows.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/gavksingh/autorsr)
 
 **Tech Stack:**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -148,8 +163,10 @@ Clinical AI platform with React/TypeScript frontend and API integrations. Accele
 </td>
 <td width="50%">
 
-### 🎙️ X-Voice
+### [🎙️ X-Voice](https://github.com/gavksingh/x-voice)
 Conversational voice AI platform with sub-200ms responsiveness. Real-time speech processing with natural language understanding and context-aware responses.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-6366F1?style=flat-square&logo=github&logoColor=white)](https://github.com/gavksingh/x-voice)
 
 **Tech Stack:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
