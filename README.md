@@ -41,6 +41,10 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 
 ---
 
+> **📌 Note:** Your pinned repositories and contribution activity will appear below this section on your GitHub profile.
+
+---
+
 ## 🛠️ Tech Stack & Skills
 
 ### Languages
@@ -86,6 +90,20 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+**MS in Computer Science** | University at Buffalo | **GPA: 3.9/4.0**
+
+</div>
 
 ---
 
@@ -143,21 +161,6 @@ Conversational voice AI platform with sub-200ms responsiveness. Real-time speech
 </table>
 
 ---
-
-> **📌 Note:** Your pinned repositories and contribution activity will appear below this section on your GitHub profile.
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**MS in Computer Science** | University at Buffalo | **GPA: 3.9/4.0**
-
-</div>
-
 
 ## 💡 I Believe...
 
