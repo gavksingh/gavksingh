@@ -39,7 +39,7 @@ Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. D
 🎓 **MS in Computer Science** from University at Buffalo (3.9 GPA)  
 🏆 **AWS, Azure AI, and GCP Certified**
 
-## 🛠️ Tech Stack & Skills: Python, Java, TypeScript, GraphQL, LangChain, LangGraph, MCP, AI Agents, React, GraphQL, AWS, MySQL, MongoDB,
+**→ 🛠️ Tech Stack & Skills:** Python, Java, TypeScript, GraphQL, LangChain, LangGraph, MCP, AI Agents, React, GraphQL, AWS, MySQL, MongoDB,
 
 ---
 ## 🏆 Certifications & Achievements
