@@ -116,20 +116,5 @@ Conversational voice AI platform with sub-200ms responsiveness. Real-time speech
 </td>
 </tr>
 </table>
-
 ---
-
-## 💡 I Believe...
-
-<div align="center">
-
-*"Code is poetry in pixels and pixels make magic. Let's create some!"*
-
-**Open to exciting opportunities in Software Engineering, AI/ML, and Applied AI roles.**  
-**Let's build something amazing together!**
-
----
-
-<sub>⭐️ From [gavksingh](https://github.com/gavksingh) | Last Updated: February 2026</sub>
-
 </div>
