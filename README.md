@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with **3+ years** of experience building production AI agent systems and scalable distributed services. I ship end-to-end, from designing multi-agent orchestration and semantic retrieval platforms to architecting microservices handling **500K+ daily transactions**.
+Software Engineer with years of experience building production AI agent systems and scalable distributed services. I ship end-to-end, from designing multi-agent orchestration and semantic retrieval platforms to architecting microservices handling **500K+ daily transactions**.
 
 🎯 **Currently**: AI Software Engineer at **University at Buffalo**, building production-grade AI agents using MCP servers and LangGraph that automate enterprise workflows, and semantic search platforms delivering **sub-100ms latency** across 1,000+ records.
 
