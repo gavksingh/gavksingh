@@ -22,6 +22,7 @@
 ## 👨‍💻 About Me
 
 Software Engineer II, GenAI @ **Google**.
+
 🎓 **MS in Computer Science**, University at Buffalo (3.9 GPA)
 🏆 **AWS, Azure AI, and GCP Certified**
 
