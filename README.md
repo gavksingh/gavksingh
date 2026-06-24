@@ -21,25 +21,12 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with years of experience building production AI agent systems and scalable distributed services. I ship end-to-end, from designing multi-agent orchestration and semantic retrieval platforms to architecting microservices handling **500K+ daily transactions**.
+Software Engineer II, GenAI at **Google**, building production-grade AI agents and applications using MCP servers and LangGraph that automate enterprise workflows and power intelligent, agentic experiences at scale.
 
-🎯 **Currently**: AI Software Engineer at **University at Buffalo**, building production-grade AI agents using MCP servers and LangGraph that automate enterprise workflows, and semantic search platforms delivering **sub-100ms latency** across 1,000+ records.
-
-🚀 **What I Build**:
-
-**→ AI Agents & Agentic Systems**  
-Shipping MCP servers, multi-agent orchestration with LangGraph/LangChain, semantic retrieval (RAG), vector-based memory architectures, and LLM evaluation frameworks. Built **Agentic MCP Hub** (enterprise MCP server for Jira, Slack, SQL integrations) and **AutoFlow MCP** (plug-and-play browser automation for AI agents).
-
-**→ Full-Stack AI Platforms**  
-Architected **AutoRSR**, a clinical AI platform with React/TypeScript and API integrations that accelerated feature delivery by 3x. Built **X-Voice**, a conversational voice AI platform with sub-200ms responsiveness. Engineered HIPAA-compliant RAG systems with semantic caching that cut LLM costs by 30%.
-
-**→ Distributed Systems & Reliability**  
-Served as DRI for microservices serving 50K+ daily users at **99.99% uptime**. Designed event-driven Kafka pipelines processing 500K+ daily transactions with exactly-once semantics. Built cloud serverless ML pipelines with CI/CD, Kubernetes, and OpenTelemetry monitoring.
-
-🎓 **MS in Computer Science** from University at Buffalo (3.9 GPA)  
+🎓 **MS in Computer Science**, University at Buffalo (3.9 GPA)
 🏆 **AWS, Azure AI, and GCP Certified**
 
-**→ 🛠️ Tech Stack & Skills:** Python, Java, TypeScript, GraphQL, LangChain, LangGraph, MCP, AI Agents, React, GraphQL, AWS, MySQL, MongoDB,
+**🛠️ Tech Stack:** Python, Java, TypeScript, GraphQL, LangChain, LangGraph, MCP, AI Agents, React, AWS, MySQL, MongoDB
 
 ---
 ## 🏆 Certifications & Achievements
