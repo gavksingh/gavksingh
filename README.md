@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer II, GenAI at **Google**, building production-grade AI agents and applications using MCP servers and LangGraph that automate enterprise workflows and power intelligent, agentic experiences at scale.
+Software Engineer II, GenAI @ **Google**, building production-grade AI agents and applications using MCP servers and LangGraph that automate enterprise workflows and power intelligent, agentic experiences at scale.
 
 🎓 **MS in Computer Science**, University at Buffalo (3.9 GPA)
 🏆 **AWS, Azure AI, and GCP Certified**
